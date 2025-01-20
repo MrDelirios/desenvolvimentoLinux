@@ -1,0 +1,14 @@
+## Projeto de experimentos para o programa PROG
+
+FATORES:
+A = (5, 20, 60)
+B = (1.5, 10, 20, 40)
+C = (1, 0)
+
+COMANDO:
+echo $A -f $B -d $C
+
+ENSAIOS:
+1 = 5, 10, 3
+2 = 20, 40, 0
+3 = 4, 1.5, 1

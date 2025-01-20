@@ -1,0 +1,9 @@
+EXPERIMENTO 5, 10, 3 -- DURAÇÃO 00:00:00:001 s
+media=50 max=18
+
+EXPERIMENTO 20, 40, 0 -- DURAÇÃO 00:00:00:001 s
+media=800 max=60
+
+EXPERIMENTO 4, 1.5, 1 -- DURAÇÃO 00:00:00:001 s
+media=6.0 max=6.5
+
